@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Project-Deep-Learning
+# Sentiment-Analysis-Project (Deep-Learning)
 
 The objective of this project is to develop a machine learning model to assess if a Twitter post related to vaccinations is positive, neutral, or negative. This solution could help governments and other public health actors monitor public sentiment towards COVID-19 vaccinations and help improve public health policy, vaccine communication strategies, and vaccination programs across the world.
 
@@ -26,3 +26,19 @@ Test.csv - Tweets that you must classify using your trained model
 SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should range between -1 and 1.
 
 NLP_Primer_twitter_challenge.ipynb - is a starter notebook to help you make your first submission on this challenge.
+
+## Link to Project APP ON Huggingface spaces for testing Model
+https://huggingface.co/spaces/FKBaffour/Gradio_App_for_Sentiment_Analysis
+
+## Link to access uploaded Model on Hugging space
+
+**Model 1:
+https://huggingface.co/FKBaffour/fine-tuned_bert_base_model_for_sentiment_analysis
+
+**Model 2:
+https://huggingface.co/FKBaffour/fine-tuned-roberta-base-model-for-sentiment-analysis
+
+### Author:
+FK Baffour
+
+### Author: FK Baffour
