@@ -27,7 +27,7 @@ SampleSubmission.csv - is an example of what your submission file should look li
 
 NLP_Primer_twitter_challenge.ipynb - is a starter notebook to help you make your first submission on this challenge.
 
-## Link to Project APP ON Huggingface spaces for testing Model
+## Link to Project App on Huggingface spaces for testing Model
 https://huggingface.co/spaces/FKBaffour/Gradio_App_for_Sentiment_Analysis
 
 ## Link to access uploaded Model on Hugging space
