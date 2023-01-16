@@ -32,13 +32,11 @@ https://huggingface.co/spaces/FKBaffour/Gradio_App_for_Sentiment_Analysis
 
 ## Link to access uploaded Model on Hugging space
 
-**Model 1:
+**Model 1:**
 https://huggingface.co/FKBaffour/fine-tuned_bert_base_model_for_sentiment_analysis
 
-**Model 2:
+**Model 2:**
 https://huggingface.co/FKBaffour/fine-tuned-roberta-base-model-for-sentiment-analysis
 
-### Author:
-FK Baffour
 
 ### Author: FK Baffour
